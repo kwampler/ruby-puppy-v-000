@@ -10,6 +10,6 @@ class Dog
   def self.all
     name.each do |all|
     puts "#{name}"
-  ends
+  end
   end
 end
