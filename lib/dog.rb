@@ -7,7 +7,7 @@ class Dog
     @@all << self
   end
  
-  def dog.all
+  def self.all
     @@all
     puts "#{name}"
   end
