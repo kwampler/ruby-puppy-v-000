@@ -9,7 +9,7 @@ class Dog
  
   def self.all
     @@all
-    puts "@@all"
+    puts "name"
   end
   def self.clear_all
     @@all.clear
